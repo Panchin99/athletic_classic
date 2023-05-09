@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include athletic_classic *.css
+recursive-include athletic_classic *.csv
+recursive-include athletic_classic *.html
+recursive-include athletic_classic *.ico
+recursive-include athletic_classic *.js
+recursive-include athletic_classic *.json
+recursive-include athletic_classic *.md
+recursive-include athletic_classic *.png
+recursive-include athletic_classic *.py
+recursive-include athletic_classic *.svg
+recursive-include athletic_classic *.txt
+recursive-exclude athletic_classic *.pyc
