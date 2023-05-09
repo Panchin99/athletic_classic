@@ -4,7 +4,7 @@ app_name = "athletic_classic"
 app_title = "Athletic Classic"
 app_publisher = "Athletic Classic"
 app_description = "Athletic Classic"
-app_email = "amarratvaknitwearsonline@gmail.com\"
+app_email = "amarratvaknitwearsonline@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>

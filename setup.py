@@ -11,7 +11,7 @@ setup(
 	version=version,
 	description="Athletic Classic",
 	author="Athletic Classic",
-	author_email="amarratvaknitwearsonline@gmail.com\",
+	author_email="amarratvaknitwearsonline@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
